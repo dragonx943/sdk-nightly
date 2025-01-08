@@ -9,7 +9,7 @@
 			"installGradle": true,
 			"installMaven": true,
 			"installAnt": true,
-			"version": "17",
+			"version": "23",
 			"jdkDistro": "oracle",
 			"gradleVersion": "latest",
 			"mavenVersion": "latest",
