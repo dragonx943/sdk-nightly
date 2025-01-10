@@ -46,6 +46,12 @@ Additional information about [VS Code][3], the [UI][4],
 is available online. Devcontainers are available on the most
 common operating systems and the web ([1][8] & [2][9])!
 
+If you want to get started with Java development you can use this
+["Maven in 5 Minues"][10] documentation to learn the basics in 5
+minutes! Just run the commands listed in the terminal to get
+started. You can search online for similar resources about 
+the other tools or [further information][11].
+
 [1]: https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers#using-a-predefined-dev-container-configuration
 
 [2]: https://code.visualstudio.com/docs/remote/codespaces
@@ -57,5 +63,8 @@ common operating systems and the web ([1][8] & [2][9])!
 
 [8]: https://github.com/features/codespaces
 [9]: https://docs.github.com/en/codespaces/
+
+[10]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+[11]: https://cs61a.org
 
 
